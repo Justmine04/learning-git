@@ -50,4 +50,4 @@ if player_wins == 3:
 elif computer_wins == 3:
     print("The computer won the whole game!")
 else:
-    print("Game stopped. Game over!")
+    print("Game STOPPED. Game over!")
